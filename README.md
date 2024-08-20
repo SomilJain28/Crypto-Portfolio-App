@@ -33,7 +33,7 @@ The Crypto Portfolio App is a dynamic web application built using React and Vite
 
 ##Working Demo
 
-You can view the working demo of the Crypto Portfolio App -
+You can view the working demo of the Crypto Portfolio App - https://crypto-portfolio-sj.netlify.app
 
 ```
 
