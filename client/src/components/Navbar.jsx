@@ -27,7 +27,7 @@ const Navbar = () => {
     <nav className="w-full flex md:justify-center justify-between items-center p-4">
       <div className="flex-initial justify-center items-center">
         <a href="https://example.com" target="_blank" rel="noopener noreferrer">
-          <img src={logo} alt="logo" className="w-32 cursor-pointer" />
+          {/* <img src={logo} alt="logo" className="w-32 cursor-pointer" /> */}
         </a>
       </div>
       <ul className="text-white md:flex hidden list-none flex-row justify-between items-center flex-initial">
